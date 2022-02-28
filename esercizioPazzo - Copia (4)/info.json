@@ -1,0 +1,10 @@
+{
+	"title":"Esercizio Paxxerello",
+	"description":"Descrizione rapida dell'esercizio",
+	"id": "non serve in teoria",
+	"difficulty": 3,
+	"requirements": ["cicli", "if"],
+	"tags": ["loops", "if"],
+	"notes": "note riguardanti l'esercizio qua", 
+	"argoment" : "strings"
+}
